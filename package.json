@@ -1,8 +1,9 @@
 {
-  "name": "irregular-nouns-list",
+  "name": "node-irregular-nouns-list",
   "version": "1.0.0",
   "description": "This is a list of irregular nouns in english",
   "main": "index.js",
+  "readme": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
