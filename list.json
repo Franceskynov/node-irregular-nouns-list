@@ -1,0 +1,432 @@
+{
+    "nouns": [
+        {
+            "singular": "addendum",
+            "plural": "addenda"
+        },
+        {
+            "singular": "alga",
+            "plural": "algae"
+        },
+        {
+            "singular": "alumna",
+            "plural": "alumnae"
+        },
+        {
+            "singular": "alumnus",
+            "plural": "alumni"
+        },
+        {
+            "singular": "analysis",
+            "plural": "analyses"
+        },
+        {
+            "singular": "antenna",
+            "plural": "antennas/antennae"
+        },
+        {
+            "singular": "apparatus",
+            "plural": "apparatuses"
+        },
+        {
+            "singular": "appendix",
+            "plural": "appendices/appendixes"
+        },
+        {
+            "singular": "axis",
+            "plural": "axes"
+        },
+        {
+            "singular": "bacillus",
+            "plural": "bacilli"
+        },
+        {
+            "singular": "bacterium",
+            "plural": "bacteria"
+        },
+        {
+            "singular": "basis",
+            "plural": "bases"
+        },
+        {
+            "singular": "beau",
+            "plural": "beaux"
+        },
+        {
+            "singular": "bison",
+            "plural": "bison"
+        },
+        {
+            "singular": "buffalo",
+            "plural": "buffalos/buffaloes"
+        },
+        {
+            "singular": "bureau",
+            "plural": "bureaus"
+        },
+        {
+            "singular": "bus",
+            "plural": "busses/buses"
+        },
+        {
+            "singular": "cactus",
+            "plural": "cactuses/cacti"
+        },
+        {
+            "singular": "calf",
+            "plural": "calves"
+        },
+        {
+            "singular": "child",
+            "plural": "children"
+        },
+        {
+            "singular": "corps",
+            "plural": "corps"
+        },
+        {
+            "singular": "corpus",
+            "plural": "corpora/corpuses"
+        },
+        {
+            "singular": "crisis",
+            "plural": "crises"
+        },
+        {
+            "singular": "criterion",
+            "plural": "criteria"
+        },
+        {
+            "singular": "curriculum",
+            "plural": "curricula"
+        },
+        {
+            "singular": "datum",
+            "plural": "data"
+        },
+        {
+            "singular": "deer",
+            "plural": "deer"
+        },
+        {
+            "singular": "die",
+            "plural": "dice"
+        },
+        {
+            "singular": "dwarf",
+            "plural": "dwarfs/dwarves"
+        },
+        {
+            "singular": "diagnosis",
+            "plural": "diagnoses"
+        },
+        {
+            "singular": "echo",
+            "plural": "echoes"
+        },
+        {
+            "singular": "elf",
+            "plural": "elves"
+        },
+        {
+            "singular": "ellipsis",
+            "plural": "ellipses"
+        },
+        {
+            "singular": "embargo",
+            "plural": "embargoes"
+        },
+        {
+            "singular": "emphasis",
+            "plural": "emphases"
+        },
+        {
+            "singular": "erratum",
+            "plural": "errata"
+        },
+        {
+            "singular": "fireman",
+            "plural": "firemen"
+        },
+        {
+            "singular": "fish",
+            "plural": "fishfishes"
+        },
+        {
+            "singular": "focus",
+            "plural": "focuses"
+        },
+        {
+            "singular": "foot",
+            "plural": "feet"
+        },
+        {
+            "singular": "formula",
+            "plural": "formulas"
+        },
+        {
+            "singular": "fungus",
+            "plural": "fungifunguses"
+        },
+        {
+            "singular": "genus",
+            "plural": "genera"
+        },
+        {
+            "singular": "goose",
+            "plural": "geese"
+        },
+        {
+            "singular": "half",
+            "plural": "halves"
+        },
+        {
+            "singular": "hero",
+            "plural": "heroes"
+        },
+        {
+            "singular": "hippopotamus",
+            "plural": "hippopotami/hippopotamuses"
+        },
+        {
+            "singular": "hoof",
+            "plural": "hoofs/hooves"
+        },
+        {
+            "singular": "hypothesis",
+            "plural": "hypotheses"
+        },
+        {
+            "singular": "index",
+            "plural": "indices/indexes"
+        },
+        {
+            "singular": "knife",
+            "plural": "knives"
+        },
+        {
+            "singular": "leaf",
+            "plural": "leaves"
+        },
+        {
+            "singular": "life",
+            "plural": "lives"
+        },
+        {
+            "singular": "loaf",
+            "plural": "loaves"
+        },
+        {
+            "singular": "louse",
+            "plural": "lice"
+        },
+        {
+            "singular": "man",
+            "plural": "men"
+        },
+        {
+            "singular": "mango",
+            "plural": "mangoes"
+        },
+        {
+            "singular": "matrix",
+            "plural": "matrices"
+        },
+        {
+            "singular": "means",
+            "plural": "means"
+        },
+        {
+            "singular": "medium",
+            "plural": "media"
+        },
+        {
+            "singular": "memorandum",
+            "plural": "memoranda"
+        },
+        {
+            "singular": "millennium",
+            "plural": "millenniumsmilennia"
+        },
+        {
+            "singular": "moose",
+            "plural": "moose"
+        },
+        {
+            "singular": "mosquito",
+            "plural": "mosquitoes"
+        },
+        {
+            "singular": "mouse",
+            "plural": "mice"
+        },
+        {
+            "singular": "nebula",
+            "plural": "nebulaenebulas"
+        },
+        {
+            "singular": "neurosis",
+            "plural": "neuroses"
+        },
+        {
+            "singular": "nucleus",
+            "plural": "nuclei"
+        },
+        {
+            "singular": "oasis",
+            "plural": "oases"
+        },
+        {
+            "singular": "octopus",
+            "plural": "octopi/octopuses"
+        },
+        {
+            "singular": "ovum",
+            "plural": "ova"
+        },
+        {
+            "singular": "ox",
+            "plural": "oxen"
+        },
+        {
+            "singular": "paralysis",
+            "plural": "paralyses"
+        },
+        {
+            "singular": "parenthesis",
+            "plural": "parentheses"
+        },
+        {
+            "singular": "person",
+            "plural": "people"
+        },
+        {
+            "singular": "phenomenon",
+            "plural": "phenomena"
+        },
+        {
+            "singular": "potato",
+            "plural": "potatoes"
+        },
+        {
+            "singular": "radius",
+            "plural": "radii/radiuses"
+        },
+        {
+            "singular": "scarf",
+            "plural": "scarfsscarves"
+        },
+        {
+            "singular": "self",
+            "plural": "selves"
+        },
+        {
+            "singular": "series",
+            "plural": "series"
+        },
+        {
+            "singular": "sheep",
+            "plural": "sheep"
+        },
+        {
+            "singular": "shelf",
+            "plural": "shelves"
+        },
+        {
+            "singular": "scissors",
+            "plural": "scissors"
+        },
+        {
+            "singular": "species",
+            "plural": "species"
+        },
+        {
+            "singular": "stimulus",
+            "plural": "stimuli"
+        },
+        {
+            "singular": "stratum",
+            "plural": "strata"
+        },
+        {
+            "singular": "syllabus",
+            "plural": "syllabi/syllabuses"
+        },
+        {
+            "singular": "symposium",
+            "plural": "symposia/symposiums"
+        },
+        {
+            "singular": "synthesis",
+            "plural": "syntheses"
+        },
+        {
+            "singular": "synopsis",
+            "plural": "synopses"
+        },
+        {
+            "singular": "tableau",
+            "plural": "tableaux"
+        },
+        {
+            "singular": "that",
+            "plural": "those"
+        },
+        {
+            "singular": "thesis",
+            "plural": "theses"
+        },
+        {
+            "singular": "thief",
+            "plural": "thieves"
+        },
+        {
+            "singular": "this",
+            "plural": "these"
+        },
+        {
+            "singular": "tomato",
+            "plural": "tomatoes"
+        },
+        {
+            "singular": "tooth",
+            "plural": "teeth"
+        },
+        {
+            "singular": "torpedo",
+            "plural": "torpedoes"
+        },
+        {
+            "singular": "vertebra",
+            "plural": "vertebrae"
+        },
+        {
+            "singular": "veto",
+            "plural": "vetoes"
+        },
+        {
+            "singular": "vita",
+            "plural": "vitae"
+        },
+        {
+            "singular": "watch",
+            "plural": "watches"
+        },
+        {
+            "singular": "wife",
+            "plural": "wives"
+        },
+        {
+            "singular": "wolf",
+            "plural": "wolves"
+        },
+        {
+            "singular": "woman",
+            "plural": "women"
+        },
+        {
+            "singular": "zero",
+            "plural": "zeros/zeroes"
+        }
+    ]
+}

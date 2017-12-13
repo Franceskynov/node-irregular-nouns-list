@@ -1,0 +1,25 @@
+{
+  "name": "irregular-nouns-list",
+  "version": "1.0.0",
+  "description": "This is a list of irregular nouns in english",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franceskynov/node-irregular-nouns-list.git"
+  },
+  "keywords": [
+    "json",
+    "english",
+    "irregular",
+    "nouns"
+  ],
+  "author": "franceskynov <franceskynov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franceskynov/node-irregular-nouns-list/issues"
+  },
+  "homepage": "https://github.com/Franceskynov/node-irregular-nouns-list#readme"
+}
