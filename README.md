@@ -37,7 +37,7 @@ https://cdn.rawgit.com/Franceskynov/node-irregular-nouns-list/master/dist/list.j
 
 (MIT License)
 
-Copyright 2017,  <franceskynov@yandex.com> and <franceskynov@gmail.com>
+Copyright 2017,  franceskynov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
